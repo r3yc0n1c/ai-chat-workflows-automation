@@ -1,0 +1,18 @@
+{
+    "id": "9eb5d55e-8394-4b40-b75c-7f764f15f146",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.44.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Raja Majumdar",
+        "homepage": "raja.majumdar.01@gmail.com",
+        "support": "raja.majumdar.01@gmail.com"
+    },
+    "name": "autobot",
+    "nameSlug": "autobot",
+    "classFile": "AiChatWorkflowsAutomationAppApp.ts",
+    "description": "AI Chat Workflows Automation App with multi-step reasoning",
+    "implements": [
+        "IPostMessageSent"
+    ]
+}
